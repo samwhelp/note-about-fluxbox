@@ -14,7 +14,6 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
-* [ISO](#iso)
 * [相關筆記](#相關筆記)
 
 
@@ -26,17 +25,6 @@
 | ------- |
 | [Fluxbox Config](https://github.com/samwhelp/fluxbox-adjustment/tree/main/prototype/main/fluxbox-config) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
-
-
-
-
-## ISO
-
-### Build ISO
-
-| Build ISO |
-| --------- |
-| [lika-live-build-respin-fluxbox](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
 
 
 

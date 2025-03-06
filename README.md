@@ -33,6 +33,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [MxLinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-mxlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-fluxbox) |
 | [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
